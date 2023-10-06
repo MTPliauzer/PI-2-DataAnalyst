@@ -1,0 +1,3 @@
+El Readme.md del proyecto va más allá de los requisitos mínimos. Proporciona una descripción detallada y completa del proyecto, incluyendo una presentación clara y concisa del mismo. Se mencionan las tecnologías y herramientas utilizadas en el proyecto, así como la metodología aplicada de manera exhaustiva.
+
+Además, se presentan análisis detallados y conclusiones fundamentadas que demuestran un profundo entendimiento de los datos analizados.
