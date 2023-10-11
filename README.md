@@ -234,3 +234,6 @@ This enourmous number of fatalities, definitly and outlier in the analysis, was 
  <b> Report CONCLUTION</b>
 </h1>
 
+Thanks to all the information previously collected, I would like to conclude with a general analysis of the data.
+
+Seeing and considering how both the Fatality and the Number of Air Crashes throughout the 20th and early 21st centuries had its maximum peak in 1946 and since 1990 (in general terms) it has only decreased, I interpret that thanks to the new technologies, to the mistakes made that led to catastrophes (such as the one in 1977 in Tenerife, Canary Islands), humanity has learned and improved the use of air transport. Generating in this way that today it is very safe to fly.
