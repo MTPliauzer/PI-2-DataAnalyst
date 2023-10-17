@@ -258,7 +258,7 @@ Seeing and considering how both the Fatality and the Number of Air Crashes throu
     - warnings
 
 + PowerBI :
-    - dashboard
+    - Desktop
 
 
 <b>Contact methods: </b>
